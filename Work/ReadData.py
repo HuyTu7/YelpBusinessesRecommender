@@ -23,7 +23,7 @@ business.drop(business.columns[[0]],inplace=True,axis=1)
 business=business.loc[business['state']=='NC']
 #print(business)
 
-#Reading Review Data
+#Reading Review Data:
 review=pd.DataFrame.from_csv("../../Data/review.csv")
 #business.drop(['type','postal_code','latitude','longitude','review_count','attributes','address','is_open','hours'],inplace=True,axis=1)
 #business.index.name='reviewid'
