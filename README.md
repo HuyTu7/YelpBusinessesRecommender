@@ -45,7 +45,7 @@ The json has been converted into csv files using the sample code provided by the
 
 ```
 ├── Work\
-|   ├── ReadData_AG.py            
+|   ├── ReadData.py            
 |   ├── business_recommender.ipynb
 ├── Documents\
 |   ├── Business Questions.txt
