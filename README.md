@@ -1,5 +1,10 @@
 # YelpBusinessesRecommender
 
+### Description:
+
+- Develop a Recommendation System that suggests businesses to users based on the location, stars/ratings, category, reviews and business hours.
+- Build on Apache Spark and Recommendation System.
+
 ### Dataset:
 
 The json has been converted into csv files using the sample code provided by the Yelp at https://github.com/Yelp/dataset-examples. The converted CSV can't be loaded into Github due to large size.
